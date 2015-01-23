@@ -39,6 +39,11 @@ ImageProcessing project provides such functions:
 
 #### Skin Beautifying
 
+The application will first detect all the faces in the image and consider the face regions as the mask for skin beautifying. Skin beautifying contains two features: Skin Blur and Skin Whiten.
+> **Note:**
+> - Skin Blur is implemented using Bilateral Filter
+> - Skin Whiten is implemented simply using saturation and luminance
+
 ![Skin Beautifying Example](/images/skin1.PNG "Before Processing")
 ![Skin Beautifying Example](/images/skin2.PNG "After Processing")
 ![Skin Beautifying Example](/images/skin3.PNG "After Processing")
@@ -47,7 +52,7 @@ ImageProcessing project provides such functions:
 
 ![Liquifying Example](/images/liquify1.PNG "After Processing")
 
-#### Inpaint (based on PatchMatch)
+#### Inpainting (based on PatchMatch)
 
 The inpainting function is implemented based on PatchMatch algorithm.
 > **Note:**
