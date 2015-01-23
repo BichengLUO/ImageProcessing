@@ -6,18 +6,21 @@ Functionality
 -----------------
 ImageProcessing project provides such functions:
 
-#### <i class="icon-pencil"></i> Vignette Filter
+#### Vignette Filter
 
-#### <i class="icon-pencil"></i> Gaussian Filter, Median Filter
+![Vignette Filter Example](/images/pppp.png "Before Processing")
+![Vignette Filter Example](/images/p.png "After Processing")
 
-#### <i class="icon-pencil"></i> Saturation adjustment
+#### Gaussian Filter, Median Filter
 
-#### <i class="icon-pencil"></i> White Balance
+#### Saturation adjustment
 
-#### <i class="icon-pencil"></i> Image Sharpening
+#### White Balance
 
-#### <i class="icon-pencil"></i> Skin beautify
+#### Image Sharpening
 
-#### <i class="icon-pencil"></i> Liquifying
+#### Skin beautify
 
-#### <i class="icon-pencil"></i> Inpaint (based on PatchMatch)
+#### Liquifying
+
+#### Inpaint (based on PatchMatch)
