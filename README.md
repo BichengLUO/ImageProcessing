@@ -1,0 +1,50 @@
+ImageProcessing
+================
+This is a MFC application based on OpenCV. It provides some basic functionality of image processing like Gaussian filter,  lifuifying and so on. Actually, it will be more like a simple OpenCV experiment platform for quick implementation of some ideas.
+
+Functionality
+-----------------
+ImageProcessing project provides such functions:
+
+#### Vignette Filter
+
+![Vignette Filter Example](/images/ppppp.PNG "Before Processing")
+![Vignette Filter Example](/images/p.PNG "After Processing")
+
+#### Gaussian Filter
+
+![Gaussian Filter Example](/images/g0.PNG "Before Processing")
+![Gaussian Filter Example](/images/g1.PNG "After Processing")
+
+#### Median Filter
+
+![Median Filter Example](/images/m0.PNG "Before Processing")
+![Median Filter Example](/images/m1.PNG "After Processing")
+
+#### Saturation adjustment
+
+![Saturation Example](/images/saturation1.PNG "Before Processing")
+![Saturation Example](/images/saturation2.PNG "After Processing")
+![Saturation Example](/images/saturation3.PNG "After Processing")
+
+#### White Balance
+
+![White Balance Example](/images/w0.PNG "Before Processing")
+![White Balance Example](/images/w1.PNG "After Processing")
+
+#### Image Sharpening
+
+![Image Sharpening Example](/images/sharpen5.PNG "After Processing")
+![Image Sharpening Example](/images/sharpen6.PNG "After Processing")
+
+#### Skin Beautifying
+
+![Skin Beautifying Example](/images/skin1.PNG "Before Processing")
+![Skin Beautifying Example](/images/skin2.PNG "After Processing")
+![Skin Beautifying Example](/images/skin3.PNG "After Processing")
+
+#### Liquifying
+
+![Liquifying Example](/images/liquify1.PNG "After Processing")
+
+#### Inpaint (based on PatchMatch)
