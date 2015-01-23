@@ -8,8 +8,8 @@ ImageProcessing project provides such functions:
 
 #### Vignette Filter
 
-![Vignette Filter Example](/images/pppp.png "Before Processing")
-![Vignette Filter Example](/images/p.png "After Processing")
+![Vignette Filter Example](/images/pppp.PNG "Before Processing")
+![Vignette Filter Example](/images/p.PNG "After Processing")
 
 #### Gaussian Filter, Median Filter
 
