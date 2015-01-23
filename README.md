@@ -48,3 +48,16 @@ ImageProcessing project provides such functions:
 ![Liquifying Example](/images/liquify1.PNG "After Processing")
 
 #### Inpaint (based on PatchMatch)
+
+The inpainting function is implemented based on PatchMatch algorithm.
+> **Note:**
+> PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing
+> http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php
+
+![Inpaint Example](/images/pm1.png "After Processing")
+![Inpaint Example](/images/pm2.png "After Processing")
+![Inpaint Example](/images/pm3.png "After Processing")
+![Inpaint Example](/images/pm4.png "After Processing")
+![Inpaint Example](/images/pm5.png "After Processing")
+![Inpaint Example](/images/pm6.png "After Processing")
+![Inpaint Example](/images/pm7.png "After Processing")
